@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Footer() {
 	return (
-		<div className="relative bg-white text-insurerity-text-gray  ">
+		<div className="relative bg-white">
 			<div className="max-w-5xl xl:max-w-7xl 2xl:max-w-screen-xl 3xl:max-w-screen-2xl pb-8 pt-8 mx-auto px-4">
 				<div className="justify-between w-full flex flex-col lg:flex-row gap-5">
 					<div className="md:text-left">
@@ -36,7 +36,7 @@ export default function Footer() {
 							</li>
 							<li className="mt-3">
 								<a
-									className="hover:text-insurerity-light pb-1 transition duration-300"
+									className="pb-1 transition duration-300"
 									href="mailto:akangah89@gmail.com"
 								>
 									akangah89@gmail.com

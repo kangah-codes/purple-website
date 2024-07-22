@@ -11,7 +11,7 @@ export default function Hero() {
 								Budgeting made easy
 							</h1>
 							<div className="space-y-5 flex flex-col items-center justify-center max-w-2xl mx-auto">
-								<p className="text-lg text-insurerity-text-gray font-sans text-black">
+								<p className="text-lg font-sans text-black">
 									Revolutionizing the way you budget your
 									money. Get started today and take control of
 									your finances.
