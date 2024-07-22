@@ -19,7 +19,7 @@ export default function Hero() {
 								<div className="text-md space-x-4 gap-y-2.5 text-sm 3xl:text-base flex flex-row">
 									<a
 										className="bg-gradient-to-br from-purple-400 to-purple-700 rounded-full flex px-4 py-2 text-white transition duration-500"
-										href="/get-started"
+										href="https://github.com/kangah-codes/purple"
 									>
 										<p className="my-auto">Download</p>
 									</a>

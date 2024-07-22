@@ -10,11 +10,8 @@ export default function Features() {
 							Beautiful, and simple.
 						</h1>
 						<p className="mt-3 text-base 2xl:text-lg text-black tracking-tigh font-medium font-sans">
-							Lorem ipsum dolor sit amet consectetur adipisicing
-							elit. Nihil commodi corporis, delectus enim
-							doloribus, totam in consectetur maiores corrupti
-							molestias debitis aliquam molestiae saepe! Incidunt
-							laudantium sint tempore illo recusandae?
+							With a stunning design and easy-to-use interface,
+							Purple makes budgeting a breeze.
 						</p>
 					</div>
 				</div>

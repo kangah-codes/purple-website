@@ -7,18 +7,19 @@ export default function CTA() {
 						Try Purple today
 					</h1>
 					<p className="mt-3 text-base 2xl:text-lg text-black tracking-tigh font-medium font-sans">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit.
-						Nihil commodi corporis, delectus enim doloribus, totam
-						in consectetur maiores corrupti molestias debitis
-						aliquam molestiae saepe! Incidunt laudantium sint
-						tempore illo recusandae?
+						Purple is a free and open-source finance tracking
+						application that helps you keep track of your finances
+						and manage your money better.
 					</p>
 				</div>
 				<div className="mt-4 md:mt-8 flex lg:mt-0 lg:flex-shrink-0">
 					<div className="inline-flex">
-						<button className="bg-gradient-to-br from-purple-400 to-purple-700 rounded-full flex items-center justify-center px-4 py-2 text-white transition duration-500">
+						<a
+							href="https://github.com/kangah-codes/purple"
+							className="bg-gradient-to-br from-purple-400 to-purple-700 rounded-full flex items-center justify-center px-4 py-2 text-white transition duration-500"
+						>
 							<p className="text-sm">Download</p>
-						</button>
+						</a>
 					</div>
 				</div>
 			</div>

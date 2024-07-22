@@ -9,8 +9,8 @@ export default function Reconcile() {
 						Reconcile your finance tracking.
 					</h1>
 					<p className="mt-3 text-base 2xl:text-lg text-black tracking-tigh font-medium font-sans">
-						Away with the spreadsheets and manual tracking. Let
-						Purple do the work for you.
+						Away with the spreadsheets and manual tracking, let
+						Purple do the work for you!
 					</p>
 				</div>
 				<div className="w-full xl:pl-10 grid place-items-center">

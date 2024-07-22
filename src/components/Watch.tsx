@@ -9,11 +9,8 @@ export default function Watch() {
 						Watch your spending
 					</h1>
 					<p className="mt-3 text-base 2xl:text-lg text-black tracking-tight font-medium font-sans">
-						Lorem ipsum dolor sit amet consectetur, adipisicing
-						elit. Alias harum nostrum exercitationem voluptatibus
-						quam culpa voluptates quaerat sequi delectus.
-						Distinctio, doloremque. Suscipit voluptas nobis harum
-						repellat, magnam reprehenderit unde beatae?
+						Keep track of your spending and manage your money better
+						with Purple.
 					</p>
 				</div>
 				<div className="w-full grid place-items-center">

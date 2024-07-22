@@ -17,9 +17,12 @@ export default function Nav() {
 					</h1>
 				</div>
 				<div>
-					<button className="bg-gradient-to-br from-purple-400 to-purple-700 rounded-full flex items-center justify-center px-4 py-2 text-white transition duration-500">
+					<a
+						href="https://github.com/kangah-codes/purple"
+						className="bg-gradient-to-br from-purple-400 to-purple-700 rounded-full flex items-center justify-center px-4 py-2 text-white transition duration-500"
+					>
 						<p className="text-sm">Download</p>
-					</button>
+					</a>
 				</div>
 			</div>
 		</div>
